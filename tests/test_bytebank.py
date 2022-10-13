@@ -67,3 +67,4 @@ class TestClass:
 #https://www.alura.com.br/artigos/ambientes-virtuais-em-python
 #pytest --cov tests/ --cov-report term-missing
 #pytest --cov tests/
+#https://www.alura.com.br/artigos/montando-cenarios-de-testes-com-o-pytest
